@@ -1,5 +1,5 @@
 # Simplistic Makefile for malloc_count example
-PROJECT = v2_ringbuffer
+PROJECT = v4_ringbuffer
 CC = gcc
 CFLAGS = -g -W -Wall -pthread
 LIBS = -ldl
